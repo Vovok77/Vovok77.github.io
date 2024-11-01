@@ -17,6 +17,6 @@ io.on('connection', (socket)=>{
 })
 
 
-http.listen(5500, ()=>{
+http.listen(github.io, ()=>{
     console.log('сервер работ4ает')
 })
